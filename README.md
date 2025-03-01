@@ -3,7 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This project explores the deployment, management, and automation of On-Premises Active Directory (AD) in Microsoft Azure. The goal is to automate AD tasks with PowerShell scripts, manage user accounts by creating Organizational Units (OUs), generating bulk user accounts, enabling/disabling accounts, and enforcing security policies like account lockout..<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -18,12 +18,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
 
 <h2>Deployment and Configuration Steps</h2>
 
